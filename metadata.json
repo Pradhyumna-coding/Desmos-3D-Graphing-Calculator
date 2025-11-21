@@ -1,0 +1,5 @@
+{
+  "name": "Desmos-like 3D Grapher",
+  "description": "A high-performance 3D graphing calculator supporting Cartesian (z=f(x,y)) and Spherical (r=f(theta, phi)) coordinates, powered by Gemini for natural language equation generation.",
+  "requestFramePermissions": []
+}
